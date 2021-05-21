@@ -28,7 +28,7 @@ params:
       - type: footer_text
         image: images/mrexojo-white.png
         image_url: /
-        image_alt: Cloud
+        image_alt: Cloud_
         content: Stackbit theme demo
       - type: footer_nav
         title: Company
