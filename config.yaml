@@ -22,6 +22,7 @@ params:
         url: /style-guide
         style: link
         has_icon: true
+        icon: github
       - label: Sign Up
         url: /signup
         style: primary
