@@ -21,7 +21,7 @@ params:
       - label: Style Guide
         url: /style-guide
         style: link
-        has_icon: true
+        has_icon: false
         icon: envelope
       - label: Sign Up
         url: /signup
