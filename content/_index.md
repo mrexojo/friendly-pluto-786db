@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Provision your IT Infrastructure by Code
-    content: >
-      #### Cloud & DevOps IT Infrastructure Services |  EMEA Time
-      Zones&#xA;          
+    content: |
+      #### Cloud & DevOps IT Infrastructure Services
+
+      ##### Remote async work&#xA;
     actions:
       - label: Learn More
         url: /features
