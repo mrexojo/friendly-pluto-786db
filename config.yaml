@@ -22,7 +22,7 @@ params:
         url: /style-guide
         style: link
         has_icon: true
-        icon: linkedin
+        icon: envelope
       - label: Sign Up
         url: /signup
         style: primary
