@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Provision your IT Infrastructure by Code
     content: |
-      #### Cloud & DevOps IT Infrastructure Services | EN - ES
+      #### Cloud IT Infrastructure Services | EN - ES
 
       ##### Remote Async Tasks&#xA;
     actions:
