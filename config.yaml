@@ -12,7 +12,7 @@ params:
         url: /
         style: link
         has_icon: false
-      - label: Features
+      - label: Services
         url: /features
         style: link
       - label: Pricing
