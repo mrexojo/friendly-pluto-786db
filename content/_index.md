@@ -17,7 +17,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Services
+    title: Infrastructure Services
     subtitle: |-
       Nowadays there many services and components on systems infrastructure 
       to operate by hand, losing configurations or future exits your 
