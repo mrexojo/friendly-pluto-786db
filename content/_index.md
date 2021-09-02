@@ -40,10 +40,10 @@ sections:
       - title: Cloud Invoice Reduction
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Schedule of Stop/Destroy resources for low workloads, development &
+          out time work, to reduce your cloud/hosting invoice and your Internet
+          exposition
         actions:
           - label: Learn More
             url: /features
