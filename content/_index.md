@@ -54,10 +54,9 @@ sections:
       - title: Punctual & Post-Service Support
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Punctual or hours/month Support on Cloud Services, Kubernetes clusters
+          & Linux nodes.
         actions:
           - label: Learn More
             url: /features
