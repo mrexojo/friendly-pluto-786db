@@ -18,9 +18,10 @@ sections:
     type: section_features
     background: gray
     title: Services
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: |-
+      Nowadays there many services and components on systems infrastructure 
+      to operate by hand, losing configurations or future exits your 
+      employees
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
