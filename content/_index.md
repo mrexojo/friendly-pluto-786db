@@ -92,7 +92,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: IT Infrastucture help? Cloud?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: English and Spanish languages for your convenience
     actions:
       - label: Get Started
         url: /signup
