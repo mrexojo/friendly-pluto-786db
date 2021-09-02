@@ -96,7 +96,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>.
-  domain: 'https://friendly-pluto-786db.netlify.app'
+  domain: 'https://mrexojo.com'
   favicon: images/melodic-sloth.png
 taxonomies:
   stub: stub
