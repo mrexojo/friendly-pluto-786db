@@ -103,7 +103,7 @@ sections:
     title: Latest Posts
 seo:
   title: MREXOJO - Cloud & DevOps Infrastructure Services
-  description: Cloud & DevOps Infrastructure Services from EMEA time zones
+  description: Cloud & DevOps Infrastructure Services from EMEA time zones. EN / ES
   extra:
     - name: 'og:type'
       value: website
