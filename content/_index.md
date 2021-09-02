@@ -103,7 +103,7 @@ sections:
     title: Latest Posts
 seo:
   title: MREXOJO - Cloud & DevOps Infrastructure Services
-  description: The preview of the Azimuth theme
+  description: Cloud & DevOps Infrastructure Services from EMEA time zones
   extra:
     - name: 'og:type'
       value: website
