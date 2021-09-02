@@ -23,7 +23,7 @@ sections:
       to operate by hand, losing configurations or future exits your 
       employees
     features:
-      - title: The Best Feature of Your Services
+      - title: Migrate now your IT resources to Code
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
