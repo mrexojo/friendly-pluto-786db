@@ -41,9 +41,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          Schedule of Stop/Destroy resources for low workloads, development &
-          out time work, to reduce your cloud/hosting invoice and your Internet
-          exposition
+          Scheduling of Stop/Destroy resources for low workloads, development &
+          out time work = Reduce your cloud/hosting Invoice and your Internet
+          exposition to improve the security.
         actions:
           - label: Learn More
             url: /features
