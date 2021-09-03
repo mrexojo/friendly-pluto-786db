@@ -73,7 +73,7 @@ sections:
       - author: Decathlon
         avatar: images/decathlon.jpg
         avatar_alt: Eric Widget's photo
-        content: '- AWS'
+        content: '- AWS: EKS, ELB, '
       - author: Nokia
         avatar_alt: Parsley Montana's photo
         content: >-
