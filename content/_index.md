@@ -7,9 +7,7 @@ sections:
     image_alt: App preview
     title: Provision your IT Infrastructure by Code
     content: |
-      #### Cloud IT Infrastructure Services | EN / ES
-
-      ##### Infrastructure as a Code on Multi-Cloud&#xA;
+      #### Infrastructure as a Code on Multi-Cloud&#xA;
     actions:
       - label: Learn More
         url: /features
