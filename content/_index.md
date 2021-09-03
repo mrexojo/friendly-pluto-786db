@@ -8,6 +8,8 @@ sections:
     title: Provision your IT Infrastructure by Code
     content: |
       #### Infrastructure as a Code on Multi-Cloud&#xA;
+
+      ##### AWS | GCP | AlibabaCloud | OpenStack
     actions:
       - label: Learn More
         url: /features
