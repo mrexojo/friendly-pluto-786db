@@ -83,7 +83,7 @@ sections:
         content: >-
           OpenStack OnPremise: 
           AWS: ELB, RDS, S3, VPC, EC2 <br>
-          Python, 
+          
         avatar: images/nokia bell labs logo.png
       - author: Telefonica
         avatar: images/Fundacion-Telefonica-logo.jpg
