@@ -28,8 +28,8 @@ sections:
         image_alt: App preview on a phone and tablet
         content: >
           Infrastructure Code generation of manual configurations on mayor Cloud
-          providers, as well as Linux nodes provision to control every
-          parameter.
+          providers, as well as Linux nodes provision to control and automate
+          every parameter or periodic task.
         actions:
           - label: Learn More
             url: /features
