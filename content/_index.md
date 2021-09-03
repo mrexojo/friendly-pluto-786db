@@ -73,7 +73,7 @@ sections:
       - author: Decathlon
         avatar: images/decathlon.jpg
         avatar_alt: Decathlon Cloud
-        content: 'AWS: EKS, ELB, RDS, S3, VPC, EC2
+        content: 'AWS: EKS, ELB, RDS, S3, VPC, EC2 <br>
         GCP: GKE, Cloud Storage, Compute, SQL Cloud, Load Balancers, Cloud Armor
         
         '
