@@ -9,7 +9,7 @@ sections:
     content: |
       #### Infrastructure as a Code on Multi-Cloud&#xA;
 
-      ##### AWS | GCP | AlibabaCloud | OpenStack
+      ###### AWS | GCP | Azure | AlibabaCloud | OpenStack
     actions:
       - label: Learn More
         url: /features
