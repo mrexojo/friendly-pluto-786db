@@ -52,7 +52,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Punctual & Post-Service Support
-        image: images/feature3.png
+        image: images/skills.png
         image_alt: App user profile preview
         content: >
           Punctual or hours/month Support on Cloud Services, Kubernetes clusters
