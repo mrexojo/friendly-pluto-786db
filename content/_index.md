@@ -81,9 +81,9 @@ sections:
       - author: Nokia Cloud
         avatar_alt: Nokia 
         content: >-
-          OpenStack OnPremise: 
+          OpenStack OnPremise: <br>
           AWS: ELB, RDS, S3, VPC, EC2 <br>
-          
+          Ansible, Python
         avatar: images/nokia bell labs logo.png
       - author: Telefonica
         avatar: images/Fundacion-Telefonica-logo.jpg
