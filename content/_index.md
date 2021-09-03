@@ -74,7 +74,7 @@ sections:
         avatar: images/decathlon.jpg
         avatar_alt: Eric Widget's photo
         content: '- AWS: EKS, ELB, RDS, S3, VPC, EC2
-        - GCP: Compute
+        - GCP: GKE, 
         
         '
       - author: Nokia
