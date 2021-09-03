@@ -89,7 +89,7 @@ sections:
         avatar: images/Fundacion-Telefonica-logo.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          AWS: Cloudfront, ELB, RDS, S3, VPC, EC2 <br>
+          AWS: Cloudfront, ELB, RDS, S3, VPC, EC2,<br>
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
