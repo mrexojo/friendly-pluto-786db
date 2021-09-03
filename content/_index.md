@@ -67,7 +67,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Experiencies
+    title: Last experiencies
     subtitle: Some companies where I collaborated
     reviews:
       - author: Decathlon
