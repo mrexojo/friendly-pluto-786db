@@ -71,7 +71,7 @@ sections:
     subtitle: Some companies where I collaborated
     reviews:
       - author: Decathlon
-        avatar: images/review1.jpg
+        avatar: images/decathlon.jpg
         avatar_alt: Eric Widget's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
