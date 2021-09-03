@@ -82,6 +82,7 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
+        avatar: images/nokia bell labs logo.png
       - author: Telefonica
         avatar: images/Fundacion-Telefonica-logo.jpg
         avatar_alt: Jonquil Von Haggerston's photo
