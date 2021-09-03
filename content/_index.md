@@ -89,7 +89,7 @@ sections:
         avatar: images/Fundacion-Telefonica-logo.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
+          AWS: EKS, ELB, RDS, S3, VPC, EC2 <br>
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
