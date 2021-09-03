@@ -83,7 +83,7 @@ sections:
         content: >-
           OpenStack OnPremise: Nova, Swift, Neutron, Keystone, Cinder,Glance, Heat, Horizon <br>
           AWS: ELB, RDS, S3, VPC, EC2 <br>
-          Ansible, Python, 
+          Ansible, Python, Bash Scripting
         avatar: images/nokia bell labs logo.png
       - author: Telefonica
         avatar: images/Fundacion-Telefonica-logo.jpg
