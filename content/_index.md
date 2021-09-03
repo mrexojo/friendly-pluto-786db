@@ -72,13 +72,13 @@ sections:
     reviews:
       - author: Decathlon
         avatar: images/decathlon.jpg
-        avatar_alt: Eric Widget's photo
+        avatar_alt: Decathlon Cloud
         content: '- AWS: EKS, ELB, RDS, S3, VPC, EC2
         - GCP: GKE, Cloud Storage, Compute, SQL Cloud
         
         '
-      - author: Nokia
-        avatar_alt: Parsley Montana's photo
+      - author: Nokia Cloud
+        avatar_alt: Nokia 
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
