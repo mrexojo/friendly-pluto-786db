@@ -82,7 +82,7 @@ sections:
         avatar_alt: Nokia 
         content: >-
           OpenStack OnPremise: 
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
+          AWS: EKS, ELB, RDS, S3, VPC, EC2 <br>
           dui sollicitudin, vel posuere justo laoreet.
         avatar: images/nokia bell labs logo.png
       - author: Telefonica
