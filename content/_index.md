@@ -81,7 +81,7 @@ sections:
       - author: Nokia Cloud
         avatar_alt: Nokia 
         content: >-
-          OpenStack OnPremise: <br>
+          OpenStack OnPremise: Nova, Swift,<br>
           AWS: ELB, RDS, S3, VPC, EC2 <br>
           Ansible, Python
         avatar: images/nokia bell labs logo.png
