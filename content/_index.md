@@ -24,7 +24,7 @@ sections:
       employees
     features:
       - title: Migrate now your IT resources to Code
-        image: images/tf-solution.png
+        image: images/Captura de pantalla 2021-09-03 a las 6.51.25.png
         image_alt: App preview on a phone and tablet
         content: >
           Infrastructure Code generation of manual configurations on mayor Cloud
