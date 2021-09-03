@@ -94,7 +94,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: IT Infrastucture help? Cloud?
-    subtitle: English and Spanish languages for your convenience
+    subtitle: English and Spanish languages for convenience
     actions:
       - label: Get Started
         url: /signup
