@@ -73,7 +73,10 @@ sections:
       - author: Decathlon
         avatar: images/decathlon.jpg
         avatar_alt: Eric Widget's photo
-        content: '- AWS: EKS, ELB, RDS, S3, VPC, EC2'
+        content: '- AWS: EKS, ELB, RDS, S3, VPC, EC2
+        - GCP
+        
+        '
       - author: Nokia
         avatar_alt: Parsley Montana's photo
         content: >-
