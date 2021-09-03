@@ -90,7 +90,7 @@ sections:
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           AWS: Cloudfront, ELB, RDS, S3, VPC, EC2,<br>
-          Terraform,
+          Terraform, Packer, Ansible, Jenkins, Gitlab
   - section_id: call-to-action
     type: section_cta
     title: IT Infrastucture help? Cloud?
