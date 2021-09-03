@@ -74,7 +74,7 @@ sections:
         avatar: images/decathlon.jpg
         avatar_alt: Decathlon Cloud
         content: '- AWS: EKS, ELB, RDS, S3, VPC, EC2
-        - GCP: GKE, Cloud Storage, Compute, SQL Cloud
+         GCP: GKE, Cloud Storage, Compute, SQL Cloud
         
         '
       - author: Nokia Cloud
