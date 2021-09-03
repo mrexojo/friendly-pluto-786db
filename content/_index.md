@@ -70,7 +70,7 @@ sections:
     title: Experiencies
     subtitle: Some companies where I collaborated
     reviews:
-      - author: Nokia
+      - author: Decathlon
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
