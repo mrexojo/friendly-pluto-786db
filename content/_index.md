@@ -75,7 +75,7 @@ sections:
         avatar_alt: Decathlon Cloud
         content: 'AWS: EKS, ELB, RDS, S3, VPC, EC2 <br>
         GCP: GKE, Cloud Storage, Compute, SQL Cloud, Load Balancers, Cloud Armor <br>
-        Terraform, Ansible, Github Actions, Jenkins, PostgreSQL
+        Terraform Cloud, Ansible, Github Actions, Jenkins, PostgreSQL
         
         '
       - author: Nokia Cloud
