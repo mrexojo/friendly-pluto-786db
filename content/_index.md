@@ -38,7 +38,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Cloud Invoice Reduction
-        image: images/feature2.png
+        image: images/Craig-blog-576x324.png
         image_alt: App users welcoming a new member
         content: >
           Scheduling of Stop/Destroy resources for low workloads, development &
