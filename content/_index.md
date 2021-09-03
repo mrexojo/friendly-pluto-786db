@@ -84,7 +84,7 @@ sections:
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
       - author: Telefonica
-        avatar: images/review3.jpg
+        avatar: images/telefonica-logo-vertical-positivo-thumbnail.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
