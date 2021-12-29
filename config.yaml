@@ -2,7 +2,7 @@ title: MREXOJO - Cloud & DevOps Infrastructure Services
 baseURL: /
 params:
   base_font: system-sans
-  palette: purple
+  palette: orange
   header:
     logo_img: images/mrexojo-b-w.png
     logo_img_alt: Logo
