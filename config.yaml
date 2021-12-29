@@ -97,7 +97,7 @@ params:
       href="https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>.
   domain: 'https://mrexojo.com'
-  favicon: images/melodic-sloth.png
+  favicon: images/mrexojo-purple-ed16ee72.png
 taxonomies:
   stub: stub
 disableKinds:
