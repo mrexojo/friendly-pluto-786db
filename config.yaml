@@ -5,7 +5,7 @@ params:
   palette: purple
   header:
     logo_img: images/mrexojo-purple.png
-    logo_img_alt: Logo
+    logo_img_alt: mrexojo cloud
     has_nav: true
     nav_links:
       - label: Home
