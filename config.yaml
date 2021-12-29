@@ -80,9 +80,8 @@ params:
             icon_position: left
       - type: footer_form
         title: Jops Subscribe
-        content: >
-          Curated jobs offers & mentoring for cloud ops. On this private
-          newsletter I analyze and share curated jobs that I receive
+        content: |
+          Curated jobs offers & mentoring for cloud ops. 
         form_id: contactForm
         hide_labels: true
         form_fields:
