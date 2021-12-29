@@ -26,7 +26,7 @@ params:
       - label: Sign Up
         url: /signup
         style: primary
-      - label: lorem-ipsum
+      - label: JOPS
         url: '#'
         style: link
         has_icon: false
