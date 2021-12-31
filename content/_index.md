@@ -71,7 +71,7 @@ sections:
     type: section_reviews
     background: white
     title: Last experiencies
-    subtitle: Some companies where I collaborated
+    subtitle: Some services and companies where I collaborated
     reviews:
       - author: Decathlon
         avatar: images/decathlon.jpg
