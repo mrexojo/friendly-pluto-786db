@@ -30,9 +30,9 @@ sections:
         image: images/tf-solution.png
         image_alt: App preview on a phone and tablet
         content: >
-          Infrastructure Code generation of manual configurations on mayor Cloud
-          providers, as well as provision everything to control and automate any
-          parameter or scheduled action of your project.
+          Infrastructure Code of new and previous configurations on mayor Cloud
+          providers, as well as provision any parameter on images and CI/CD
+          schedulers to automate actions of your project.
         actions:
           - label: Learn More
             url: /features
