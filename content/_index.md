@@ -101,10 +101,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 seo:
   title: MREXOJO - Cloud & DevOps Infrastructure Services
   description: Cloud & DevOps Infrastructure Services from EMEA time zones. EN / ES
