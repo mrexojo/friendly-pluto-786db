@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Provision your IT Infrastructure by Code
     content: |
-      #### Infrastructure as a Code on Multi-Cloud&#xA;
+      #### Provision your IT Infrastructure by Code&#xA;
 
       ###### AWS | GCP | Azure | AlibabaCloud | OpenStack
     actions:
