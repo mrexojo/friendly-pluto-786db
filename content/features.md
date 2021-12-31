@@ -7,21 +7,19 @@ sections:
     image: images/aws-migration.png
     image_alt: App preview on a phone and tablet
     title: Your Infrastructure prepared to innovation
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Each project needs different requirements, 
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Analysis of goals and recomendations
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Apply the design accorded
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   Review and adapt 
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      You can view a free demo account to know how the cloud infrastructure is
+      provisioned and the process to apply on your project
     actions:
       - label: Free Trial
         url: /signup
