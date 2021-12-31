@@ -31,7 +31,7 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: Hola! Let's start
+    title: Demo? test a simulation
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
