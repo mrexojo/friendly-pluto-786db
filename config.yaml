@@ -30,7 +30,7 @@ params:
         content: |
           Cloud & DevOps Infrastructure Services
       - type: footer_nav
-        title: Company
+        title: MREXOJO
         nav_links:
           - label: About
             url: /about
