@@ -58,8 +58,8 @@ sections:
         image: images/skills.png
         image_alt: App user profile preview
         content: >
-          Punctual or hours/month Support on Cloud Services, Kubernetes clusters
-          & Linux nodes.
+          Punctual support or hours/month  pack on Cloud Services, Kubernetes
+          clusters & Linux nodes.
         actions:
           - label: Learn More
             url: /features
