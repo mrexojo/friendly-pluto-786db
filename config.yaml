@@ -45,7 +45,7 @@ params:
             url: /contact
             style: link
       - type: footer_nav
-        title: Connect
+        title: Add me
         nav_links:
           - label: LinkedIn
             url: 'https://www.linkedin.com/in/mrexojo'
