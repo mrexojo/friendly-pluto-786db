@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/intro-copia.webp
     image_alt: App preview
-    title: Provision your IT Infrastructure by Code
+    title: Infrastructure as a Code on Multi-Cloud
     content: |
       #### Provision your IT Infrastructure by Code&#xA;
 
