@@ -6,10 +6,13 @@ sections:
     image: images/intro-copia.webp
     image_alt: App preview
     title: Infrastructure as a Code on MultiCloud
-    content: |
-      #### Provision your IT Infrastructure by Code&#xA;
+    content: |+
+      #### **Automate** your IT Infrastructure **by Code**
 
-      ###### AWS | GCP | Azure | AlibabaCloud | OpenStack
+      ###### *AWS | GCP | Azure | AlibabaCloud | OpenStack*
+
+      ###### *Services | Configurations | Databases | Actions*
+
     actions:
       - label: Learn More
         url: /features
