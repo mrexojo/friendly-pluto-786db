@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/6.jpg
+    image: images/intro-copia.webp
     image_alt: App preview
     title: Provision your IT Infrastructure by Code
     content: |
@@ -73,24 +73,23 @@ sections:
       - author: Decathlon
         avatar: images/decathlon.jpg
         avatar_alt: Decathlon Cloud
-        content: 'AWS: EKS, ELB, RDS, S3, VPC, EC2 <br>
-        GCP: GKE, Cloud Storage, Compute, SQL Cloud, Load Balancers, Cloud Armor <br>
-        Terraform Cloud, Ansible, Github Actions, Jenkins, PostgreSQL, Gitlab
-        
-        '
+        content: >
+          AWS: EKS, ELB, RDS, S3, VPC, EC2 <br> GCP: GKE, Cloud Storage,
+          Compute, SQL Cloud, Load Balancers, Cloud Armor <br> Terraform Cloud,
+          Ansible, Github Actions, Jenkins, PostgreSQL, Gitlab
       - author: Nokia Cloud
-        avatar_alt: Nokia 
+        avatar_alt: Nokia
         content: >-
-          OpenStack OnPremise: Nova, Swift, Neutron, Keystone, Cinder,Glance, Heat, Horizon <br>
-          AWS: ELB, RDS, S3, VPC, EC2 <br>
-          Ansible, Python, Bash Scripting
+          OpenStack OnPremise: Nova, Swift, Neutron, Keystone, Cinder,Glance,
+          Heat, Horizon <br> AWS: ELB, RDS, S3, VPC, EC2 <br> Ansible, Python,
+          Bash Scripting
         avatar: images/nokia bell labs logo.png
       - author: Telefonica
         avatar: images/Fundacion-Telefonica-logo.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          AWS: Cloudfront, ELB, RDS, S3, VPC, EC2,<br>
-          Terraform, Packer, Ansible, Jenkins, Gitlab, Graylog
+          AWS: Cloudfront, ELB, RDS, S3, VPC, EC2,<br> Terraform, Packer,
+          Ansible, Jenkins, Gitlab, Graylog
   - section_id: call-to-action
     type: section_cta
     title: IT Infrastucture help? Cloud?
