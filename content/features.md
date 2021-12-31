@@ -32,7 +32,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Demo? test a simulation
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      You can view a free demo account to know how the cloud infrastructure is
+      provisioned and the process to apply on your project
     actions:
       - label: Get Started
         url: '#'
