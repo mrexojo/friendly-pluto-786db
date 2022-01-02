@@ -58,8 +58,9 @@ sections:
         image: images/skills.png
         image_alt: App user profile preview
         content: >
-          Punctual support or hours/month  pack on Cloud Services, Kubernetes
-          clusters & Linux nodes.
+          Replicate and testing the architecture or some pieces of your
+          infrastructure on other clouds is the surety to can analyze and
+          improving on availabilty, security and take costs decisions.
         actions:
           - label: Learn More
             url: /features
