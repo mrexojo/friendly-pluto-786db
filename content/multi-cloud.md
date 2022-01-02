@@ -1,8 +1,5 @@
 ---
 title: Multi Cloud Strategy
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
 image_alt: Team members in a conference room
 seo:
   title: About Us
