@@ -1,5 +1,5 @@
 ---
-title: Infrastr
+title: Infrastructure
 sections:
   - section_id: features
     type: section_content
