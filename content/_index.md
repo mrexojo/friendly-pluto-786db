@@ -54,7 +54,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Punctual & Post-Service Support
+      - title: Multi Cloud Strategy
         image: images/skills.png
         image_alt: App user profile preview
         content: >
