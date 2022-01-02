@@ -1,5 +1,5 @@
 ---
-title: Infrastructure
+title: Infrastructure as a Code
 sections:
   - section_id: features
     type: section_content
