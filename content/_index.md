@@ -55,7 +55,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Multi Cloud Strategy
-        image: images/skills.png
+        image: images/intro-multicloud.png
         image_alt: App user profile preview
         content: >
           Replicate and testing the architecture or some pieces of your
