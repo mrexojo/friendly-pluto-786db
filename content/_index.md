@@ -98,7 +98,7 @@ sections:
     title: IT Infrastucture help? Cloud?
     subtitle: English and Spanish languages for convenience
     actions:
-      - label: Get Started
+      - label: Contact
         url: /signup
         style: primary
 seo:
