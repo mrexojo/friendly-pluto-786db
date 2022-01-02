@@ -26,20 +26,6 @@ sections:
       to operate by hand, losing configurations or future exits your 
       employees
     features:
-      - title: Migrate now your IT resources to Code
-        image: images/tf-solution.png
-        image_alt: App preview on a phone and tablet
-        content: >
-          Infrastructure Code of new and previous configurations on mayor Cloud
-          providers, as well as provision any parameter on images and CI/CD
-          schedulers to automate actions of your project.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
       - title: Cloud Invoice Reduction
         image: images/Craig-blog-576x324.png
         image_alt: App users welcoming a new member
@@ -47,6 +33,20 @@ sections:
           Scheduling of Stop/Destroy resources for low workloads, development &
           out time work = Reduce your cloud/hosting Invoice and your Internet
           exposition to improve the security.
+        actions:
+          - label: Learn More
+            url: /features
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+      - title: Migrate now your IT resources to Code
+        image: images/tf-solution.png
+        image_alt: App preview on a phone and tablet
+        content: >
+          Infrastructure Code of new and previous configurations on mayor Cloud
+          providers, as well as provision any parameter on images and CI/CD
+          schedulers to automate actions of your project.
         actions:
           - label: Learn More
             url: /features
