@@ -1,5 +1,5 @@
 ---
-title: In
+title: Infrastr
 sections:
   - section_id: features
     type: section_content
