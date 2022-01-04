@@ -1,7 +1,7 @@
 ---
 title: Multicloud
 sections:
-  - section_id: lorem-ipsum
+  - section_id: multicloud
     title: MultiCloud Strategy
     content: >
       > Why should I try other options if I am happy with my current cloud
