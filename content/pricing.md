@@ -10,7 +10,7 @@ sections:
 
       ![](https://1.bp.blogspot.com/-7B2vgE9hmu4/XQkeVytOFDI/AAAAAAAACG4/YDrkCLq--eQFiTcXVK9y\_950ETfL2RU6wCLcBGAs/s1600/Cloud_Silo.png)
     image_alt: Terraform-Ansible
-    background: gray
+    background: white
     actions: []
     type: section_content
   - section_id: pricing
