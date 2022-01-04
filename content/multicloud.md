@@ -4,7 +4,7 @@ sections:
   - section_id: lorem-ipsum
     title: MultiCloud Strategy
     content: >
-      ![](https://elceo.com/wp-content/uploads/2020/02/banxico_getty.jpg)
+      ![](https://www.flexera.com/blog/wp-content/uploads/2021/09/955\_FinOps-Blog\_1200x628\_blog-img.png)
 
 
       > Why should I try other options if I am happy with my current cloud
@@ -26,8 +26,7 @@ sections:
       bill if you maintain it over time,  that is why most clients choose to
       choose the most **critical parts**, or to r**epeat a disaster recovery
       strategy over time** to test certain parts of their infrastructure in
-      other
-      alternatives![](https://elceo.com/wp-content/uploads/2020/02/banxico_getty.jpg)
+      other alternatives
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
