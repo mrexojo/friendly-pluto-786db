@@ -68,7 +68,7 @@ params:
       - type: footer_form
         title: Jops Subscribe
         content: |
-          Curated jobs offers & mentoring for cloud ops. 
+          Cloud Services news and training to be ready to grow
         form_id: contactForm
         hide_labels: true
         form_fields:
