@@ -4,7 +4,7 @@ sections:
   - section_id: lorem-ipsum
     title: Infrastructure as a Code Templates
     content: >
-      ##### Launch a base template ready to use or to adapt it with your
+      ###### Launch a base template ready to use or to adapt it with your
       requirements ( yes, I can help you with your project )
 
 
