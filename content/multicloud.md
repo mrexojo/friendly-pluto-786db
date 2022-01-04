@@ -4,7 +4,7 @@ sections:
   - section_id: lorem-ipsum
     title: MultiCloud Strategy
     content: >
-      ![](https://www.hycu.com/wp-content/uploads/2019/09/Case-studies-photos-for-webpage\_380x178\_Lee-County-Tax-750x300.png)
+      ![](https://elceo.com/wp-content/uploads/2020/02/banxico_getty.jpg)
 
 
       > Why should I try other options if I am happy with my current cloud
@@ -26,7 +26,8 @@ sections:
       bill if you maintain it over time,  that is why most clients choose to
       choose the most **critical parts**, or to r**epeat a disaster recovery
       strategy over time** to test certain parts of their infrastructure in
-      other alternatives
+      other
+      alternatives![](https://elceo.com/wp-content/uploads/2020/02/banxico_getty.jpg)
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
