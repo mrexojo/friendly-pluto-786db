@@ -1,6 +1,19 @@
 ---
 title: Pricing
 sections:
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >
+      asdasd
+
+
+
+
+      ![](https://1.bp.blogspot.com/-7B2vgE9hmu4/XQkeVytOFDI/AAAAAAAACG4/YDrkCLq--eQFiTcXVK9y\_950ETfL2RU6wCLcBGAs/s1600/Cloud_Silo.png)
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
   - section_id: pricing
     type: section_pricing
     background: gray
@@ -74,19 +87,6 @@ sections:
           luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
           lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >
-      asdasd
-
-
-
-
-      ![](https://1.bp.blogspot.com/-7B2vgE9hmu4/XQkeVytOFDI/AAAAAAAACG4/YDrkCLq--eQFiTcXVK9y\_950ETfL2RU6wCLcBGAs/s1600/Cloud_Silo.png)
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
 seo:
   title: Pricing
   description: This is the pricing page
