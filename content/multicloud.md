@@ -15,8 +15,7 @@ sections:
       business.
 
 
-
-
+      ![](https://www.hycu.com/wp-content/uploads/2019/09/Case-studies-photos-for-webpage\_380x178\_Lee-County-Tax-750x300.png)
 
 
 
@@ -30,9 +29,6 @@ sections:
       choose the most **critical parts**, or to r**epeat a disaster recovery
       strategy over time** to test certain parts of their infrastructure in
       other alternatives
-
-
-      ![](https://png.pngtree.com/png-vector/20190730/ourmid/pngtree-cloud-computing-isometric-illustration-concept-modern-flat-design-concept-of-png-image\_1641080.jpg)
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
