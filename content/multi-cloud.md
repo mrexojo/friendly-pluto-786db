@@ -1,5 +1,5 @@
 ---
-title: Multi Cloud Strategy
+title: MultiCloud Strategy
 image_alt: Team members in a conference room
 seo:
   title: About Us
