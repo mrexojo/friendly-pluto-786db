@@ -4,6 +4,9 @@ sections:
   - section_id: lorem-ipsum
     title: MultiCloud Strategy
     content: >
+      ![](https://www.hycu.com/wp-content/uploads/2019/09/Case-studies-photos-for-webpage\_380x178\_Lee-County-Tax-750x300.png)
+
+
       > Why should I try other options if I am happy with my current cloud
       provider?
 
@@ -13,11 +16,6 @@ sections:
       adapted to the project or company allows us to be prepared for future
       problems of the cloud provider, our economic situation or new lines of
       business.
-
-
-      ![](https://www.hycu.com/wp-content/uploads/2019/09/Case-studies-photos-for-webpage\_380x178\_Lee-County-Tax-750x300.png)
-
-
 
 
       Thanks to iaac, you have the key to analyze how your services or product
