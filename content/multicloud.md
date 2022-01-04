@@ -4,18 +4,19 @@ sections:
   - section_id: lorem-ipsum
     title: MultiCloud Strategy
     content: >
-      ![](https://www.flexera.com/blog/wp-content/uploads/2021/09/955\_FinOps-Blog\_1200x628\_blog-img.png)
 
 
       > Why should I try other options if I am happy with my current cloud
       provider?
 
 
-      Because defining a Multicloud strategy does not necessarily mean that you
-      are going to change cloud providers. Designing a multicloud strategy
-      adapted to the project or company allows us to be prepared for future
-      problems of the cloud provider, our economic situation or new lines of
-      business.
+      ![](https://www.flexera.com/blog/wp-content/uploads/2021/09/955\_FinOps-Blog\_1200x628\_blog-img.png)
+
+
+      Define a Multicloud strategy does not necessarily mean that you are going
+      to change cloud providers. Designing a multicloud strategy adapted to the
+      project or company allows us to be prepared for future problems of the
+      cloud provider, our economic situation or new lines of business.
 
 
       Thanks to iaac, you have the key to analyze how your services or product
