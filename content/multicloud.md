@@ -2,7 +2,7 @@
 title: Multicloud
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: MultiCloud
     content: >
       > \*Why should I try other options if I am happy with my current cloud
       provider?
