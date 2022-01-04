@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Infrastructure as a Code Templates
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: You ca
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
