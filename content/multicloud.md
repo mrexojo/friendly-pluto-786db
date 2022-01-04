@@ -3,7 +3,7 @@ title: Multicloud
 sections:
   - section_id: multicloud
     title: MultiCloud Strategy
-    content: >
+    content: >+
       > Why should I try other options if I am happy with my current cloud
       provider?
 
@@ -33,6 +33,7 @@ sections:
       > What's the most critical parts?
 
 
+      ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEubm_aoco99c8piWDr9B3SUVmITuSyWEaRvk7teQtTa9hm6Wu-i01jX_N3I5zjkbK0U\&usqp=CAU)
 
 
       It depends of several aspects as the type of project, product, economic
@@ -40,13 +41,14 @@ sections:
       preference order:
 
 
-      *   Data Storage: 
+      1.  Data Storage
 
 
-      *   Availability Service: 
+      2.  Availability Service
 
 
-      *   Compute process:
+      3.  Compute process
+
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
