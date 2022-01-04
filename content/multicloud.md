@@ -15,6 +15,9 @@ sections:
       business.
 
 
+      ![](https://img2.freepng.es/20190629/tpe/kisspng-flat-design-vector-graphics-illustration-concept-pgmop-16-hours-fintech-studies-5d17c268aa43a4.1019197615618381846974.jpg)
+
+
 
 
       Thanks to iaac, you have the key to analyze how your services or product
@@ -25,7 +28,7 @@ sections:
       bill if you maintain it over time,  that is why most clients choose to
       choose the most **critical parts**, or to r**epeat a disaster recovery
       strategy over time** to test certain parts of their infrastructure in
-      other alternatives.
+      other alternatives
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
