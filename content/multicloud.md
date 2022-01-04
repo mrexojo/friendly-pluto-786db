@@ -50,7 +50,7 @@ sections:
     actions: []
     type: section_hero
   - section_id: lorem-ipsum
-    title: What's your Multicloud plan ?
+    title: What's your MultiCloud plan?
     subtitle: lorem-ipsum
     actions:
       - label: Contact
