@@ -51,7 +51,7 @@ sections:
     type: section_hero
   - section_id: multicloud-contact
     title: What's your MultiCloud plan?
-    subtitle: 'Remember, a multicloud plan'
+    subtitle: 'Remember, a multicloud plan '
     actions:
       - label: Contact
         url: /contact
