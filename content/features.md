@@ -8,14 +8,16 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Your Infrastructure prepared to innovation
     content: >
-      Each project needs different requirements, 
+      Infrastructure as a Code on demand adapted to your project requirements.
 
 
-      *   Analysis of goals and recomendations
+      *   Mayor Cloud providers: AWS, Google Cloud, Azure, Alibaba Cloud,
+      OpenStack.
 
-      *   Apply the design accorded
+      *   Compute provision: Kubernetes Clusters, Image registry, Autoscaling
+      Instances or monolith, 
 
-      *   Review and adapt 
+      *   CI / CD Actions: Github Actions, GitlabCI, Jenkins.
 
 
       You can view a free demo account to know how the cloud infrastructure is
