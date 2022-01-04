@@ -3,17 +3,20 @@ title: Multicloud
 sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-      efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-      pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-      imperdiet venenatis.
-              
-      > Vestibulum ullamcorper risus auctor eleifend consequat.
+    content: >
+      > *Why should I try other options if I am happy with my current cloud
+      provider?
+
+      > *
 
 
-      ![Placeholder
-      Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+      Because defining a Multicloud strategy does not necessarily mean that you
+      are going to change cloud providers. Designing a multicloud strategy
+      adapted to the project or company allows us to be prepared for future
+      problems of the cloud provider, our economic situation or new lines of
+      business.
+
+
 
 
       In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl
