@@ -53,7 +53,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Contact
         url: '#'
         style: link
         has_icon: false
