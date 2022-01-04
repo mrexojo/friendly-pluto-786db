@@ -54,7 +54,7 @@ sections:
     subtitle: lorem-ipsum
     actions:
       - label: Contact
-        url: '#'
+        url: /contact
         style: link
         has_icon: false
         icon: arrow-left
