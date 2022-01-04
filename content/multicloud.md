@@ -15,7 +15,8 @@ sections:
       business.
 
 
-      ![](https://img2.freepng.es/20190629/tpe/kisspng-flat-design-vector-graphics-illustration-concept-pgmop-16-hours-fintech-studies-5d17c268aa43a4.1019197615618381846974.jpg)
+
+
 
 
 
@@ -29,6 +30,9 @@ sections:
       choose the most **critical parts**, or to r**epeat a disaster recovery
       strategy over time** to test certain parts of their infrastructure in
       other alternatives
+
+
+      ![](https://png.pngtree.com/png-vector/20190730/ourmid/pngtree-cloud-computing-isometric-illustration-concept-modern-flat-design-concept-of-png-image\_1641080.jpg)
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
