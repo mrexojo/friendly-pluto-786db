@@ -3,7 +3,7 @@ title: Multicloud
 sections:
   - section_id: multicloud
     title: MultiCloud Strategy
-    content: >+
+    content: >
       > Why should I try other options if I am happy with my current cloud
       provider?
 
@@ -28,12 +28,10 @@ sections:
       infrastructure in other alternatives.
 
 
-
-
       > What's the most critical parts?
 
 
-      ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEubm_aoco99c8piWDr9B3SUVmITuSyWEaRvk7teQtTa9hm6Wu-i01jX_N3I5zjkbK0U\&usqp=CAU)
+      ![](https://securityintelligence.com/wp-content/uploads/2014/04/201308Four-Steps-to-Data-Security-in-the-Cloud-630x330.jpg)
 
 
       It depends of several aspects as the type of project, product, economic
@@ -48,7 +46,6 @@ sections:
 
 
       3.  Compute process
-
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
