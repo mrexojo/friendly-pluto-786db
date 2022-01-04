@@ -5,7 +5,9 @@ sections:
     type: section_pricing
     background: gray
     title: Infrastructure as a Code Templates
-    subtitle: You ca
+    subtitle: >-
+      Launch a base template ready to use or to adapt it with your requirements
+      ( Yes, we can help you
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
