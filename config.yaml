@@ -18,7 +18,7 @@ params:
       - label: Pricing
         url: /pricing
         style: link
-      - label: Sign Up
+      - label: Contact
         url: /signup
         style: primary
   footer:
