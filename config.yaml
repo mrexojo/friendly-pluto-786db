@@ -38,7 +38,7 @@ params:
           - label: Blog
             url: /blog
             style: link
-          - label: Sign Up
+          - label: Iaac Templates
             url: /signup
             style: link
           - label: Contact
