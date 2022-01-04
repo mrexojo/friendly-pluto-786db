@@ -4,10 +4,12 @@ sections:
   - section_id: lorem-ipsum
     title: MultiCloud Strategy
     content: >
-      > \*Why should I try other options if I am happy with my current cloud
+      > Why should I try other options if I am happy with my current cloud
       provider?
 
-      > \*
+      >
+
+
 
 
       Because defining a Multicloud strategy does not necessarily mean that you
@@ -20,10 +22,8 @@ sections:
       ![](https://i.pinimg.com/736x/14/6c/ca/146cca8215b2fff7e101a52512d3ff27.jpg)
 
 
-
-
       Thanks to iaac, you have the key to analyze how your services or product
-      behave in other cloud providers. 
+      behave in other cloud providers.
 
 
       You know that replicating the entire infrastructure would increase your
