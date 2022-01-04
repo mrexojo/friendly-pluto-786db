@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Infrastructure as a Code Templates
 sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
