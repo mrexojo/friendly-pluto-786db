@@ -16,7 +16,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Infrastructure as a Code Templates
+    title: Templates Pricing
     subtitle: >-
       Launch a base template ready to use or to adapt it with your requirements
       ( yes, I can help you with your project )
