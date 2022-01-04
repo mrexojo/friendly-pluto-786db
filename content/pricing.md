@@ -7,7 +7,7 @@ sections:
     title: Infrastructure as a Code Templates
     subtitle: >-
       Launch a base template ready to use or to adapt it with your requirements
-      ( Yes, we can help you
+      ( yes, I can help you with your project )
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
