@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Multicloud Strategy
 sections: []
 seo:
   title: ''
