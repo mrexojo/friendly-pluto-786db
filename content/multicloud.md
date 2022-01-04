@@ -51,7 +51,9 @@ sections:
     type: section_hero
   - section_id: multicloud-contact
     title: What's your MultiCloud plan?
-    subtitle: 'Remember, a multicloud plan '
+    subtitle: >-
+      A Multicloud plan let you be ready for difficulties and open the mind
+      project for new opportunities.
     actions:
       - label: Contact
         url: /contact
