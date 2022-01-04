@@ -23,9 +23,30 @@ sections:
 
       You know that replicating the entire infrastructure would increase your
       bill if you maintain it over time,  that is why most clients choose to
-      choose the most **critical parts**, or to **repeat **this process as a
-      disaster recovery strategy** over time** to test certain parts of their
+      choose the most **critical parts**, or to **repeat this process as a
+      disaster recovery strategy over time** to test certain parts of their
       infrastructure in other alternatives.
+
+
+
+
+      > What's the most critical parts?
+
+
+
+
+      It depends of several aspects as the type of project, product, economic
+      situation... but on many cases you probably are interested on this
+      preference order:
+
+
+      *   Data Storage: 
+
+
+      *   Availability Service: 
+
+
+      *   Compute process:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
