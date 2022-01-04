@@ -28,7 +28,6 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
-image: images/about.jpg
 ---
 Thanks to iaac, you have the key to analyze how your services or product behave in other cloud providers. You know that replicating the entire infrastructure would increase your bill if you maintain it over time, that is why most clients choose to choose the most critical parts, or to r**epeat a disaster recovery strategy over time** to test certain parts of their infrastructure in other alternatives.
 
