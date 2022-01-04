@@ -18,8 +18,8 @@ sections:
     background: gray
     title: Templates Pricing
     subtitle: >-
-      Launch a base template ready to use or to adapt it with your requirements
-      ( yes, I can help you with your project )
+      Set pricing on IaaC templates is not easy, so I offer some base
+      architectures with the possibility to grow or adapt it to your project
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
