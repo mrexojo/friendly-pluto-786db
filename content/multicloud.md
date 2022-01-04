@@ -1,5 +1,5 @@
 ---
-title: Multicloud Strategy
+title: Multicloud
 sections: []
 seo:
   title: ''
