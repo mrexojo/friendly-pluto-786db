@@ -39,13 +39,13 @@ sections:
       preference order:
 
 
-      1.  Data Storage
+      ###### Data Storage
 
 
-      2.  Availability Service
+      ###### Availability Service
 
 
-      3.  Compute process
+      ###### Compute process
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
