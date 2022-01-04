@@ -7,10 +7,6 @@ sections:
       > Why should I try other options if I am happy with my current cloud
       provider?
 
-      >
-
-
-
 
       Because defining a Multicloud strategy does not necessarily mean that you
       are going to change cloud providers. Designing a multicloud strategy
@@ -19,7 +15,6 @@ sections:
       business.
 
 
-      ![](https://i.pinimg.com/736x/14/6c/ca/146cca8215b2fff7e101a52512d3ff27.jpg)
 
 
       Thanks to iaac, you have the key to analyze how your services or product
