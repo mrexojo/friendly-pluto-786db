@@ -68,7 +68,7 @@ params:
       - type: footer_form
         title: Be ready!
         content: |
-          Cloud Services news and training to be ready to grow
+          Monthly Cloud Services news and training to be ready to grow
         form_id: contactForm
         hide_labels: true
         form_fields:
