@@ -4,8 +4,6 @@ sections:
   - section_id: lorem-ipsum
     title: MultiCloud Strategy
     content: >
-
-
       > Why should I try other options if I am happy with my current cloud
       provider?
 
@@ -25,9 +23,9 @@ sections:
 
       You know that replicating the entire infrastructure would increase your
       bill if you maintain it over time,  that is why most clients choose to
-      choose the most **critical parts**, or to r**epeat a disaster recovery
-      strategy over time** to test certain parts of their infrastructure in
-      other alternatives
+      choose the most **critical parts**, or to **repeat **this process as a
+      disaster recovery strategy** over time** to test certain parts of their
+      infrastructure in other alternatives.
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
