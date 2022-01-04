@@ -15,7 +15,7 @@ params:
       - label: Services
         url: /features
         style: link
-      - label: Pricing
+      - label: IaaC Templates
         url: /pricing
         style: link
       - label: Contact
