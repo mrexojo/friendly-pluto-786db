@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Infrastructure as a Code on MultiCloud
     content: |
-      #### IT **Infrastructure **Automation **by Code**
+      #### IT Infrastructure Automation **by Code**
 
       ###### *AWS | GCP | Azure | AlibabaCloud | OpenStack*
 
