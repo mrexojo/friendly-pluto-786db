@@ -30,8 +30,8 @@ sections:
         image_alt: App users welcoming a new member
         content: >
           Dynamic infrastructure and good schedule of workloads, environments &
-          out time work = Reduce your cloud Invoice and your Internet exposition
-          = Improve the security.
+          out time work = **Reduce your cloud Invoice** and your Internet
+          exposition =** Improve the security.**
         actions:
           - label: Learn More
             url: /features
