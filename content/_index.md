@@ -29,9 +29,9 @@ sections:
         image: images/Craig-blog-576x324.png
         image_alt: App users welcoming a new member
         content: >
-          Scheduling of Stop/Destroy resources for low workloads, development &
-          out time work = Reduce your cloud/hosting Invoice and your Internet
-          exposition to improve the security.
+          Dynamic infrastructure and good schedule of workloads, environments &
+          out time work = Reduce your cloud Invoice and your Internet exposition
+          = Improve the security.
         actions:
           - label: Learn More
             url: /features
