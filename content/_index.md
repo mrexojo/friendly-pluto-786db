@@ -31,7 +31,7 @@ sections:
         content: >
           Dynamic infrastructure and good schedule of workloads, environments &
           out time work = **Reduce your cloud Invoice** and your Internet
-          exposition =** Improve the security.**
+          exposition = Improve the security.
         actions:
           - label: Learn More
             url: /features
