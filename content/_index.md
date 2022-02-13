@@ -13,7 +13,7 @@ sections:
 
       ###### *Configuration Services | CICD DevOps Pipelines*
     actions:
-      - label: Learn More
+      - label: Examples
         url: /features
         style: primary
   - section_id: features
