@@ -25,7 +25,7 @@ sections:
       to operate by hand, losing configurations or future exits your 
       employees
     features:
-      - title: Cloud Invoice Reduction
+      - title: Dynamic IT Infrastructure
         image: images/Craig-blog-576x324.png
         image_alt: App users welcoming a new member
         content: >
