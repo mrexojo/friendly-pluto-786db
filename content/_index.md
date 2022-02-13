@@ -7,11 +7,11 @@ sections:
     image_alt: App preview
     title: Infrastructure as a Code on MultiCloud
     content: |
-      #### **Automate** your IT Infrastructure **by Code**
+      #### IT **Infrastructure **Automation **by Code**
 
       ###### *AWS | GCP | Azure | AlibabaCloud | OpenStack*
 
-      ###### *Services Configurations | *CICD Actions* | Databases*
+      ###### *Configuration Services | CICD DevOps Pipelines*
     actions:
       - label: Learn More
         url: /features
